@@ -1,39 +1,41 @@
 ---
 layout: home
-title: Just the Class
+title: Data 4 Sustainability
 nav_exclude: true
-permalink: /:path/
+permalink: index.html
 seo:
-  type: Course
-  name: Just the Class
+  type: Datathon
+  name: BUDSA x BU Sustainability 
 ---
 
-# Just the Class
+# Prerequsites 
+1. A Github account
+2. Your preferred Python IDE 
 
-Just the Class is a GitHub Pages template developed for the purpose of quickly deploying course websites. In addition to serving plain web pages and files, it provides a boilerplate for:
+# About 
+The goal of this datathon is to enhance sustainability efforts on Boston University's campus through data analysis. 
+BUDSA has collaborated with BU Sustainability to provide real world data pertaining to on campus emmissions and watse for participants to explore and analyze. 
 
-- [announcements](announcements.md),
-- a [course calendar](calendar.md),
-- a [staff](staff.md) page,
-- and a weekly [schedule](schedule.md).
+Participants will work in teams of 4-6 to solve one of three sustainabilty challenges on BU campus. Your performance in the competition will be judged based on 1) the quality of your results 2) the quality of your analyses and/or your reccomendations and 3) the creativity of your analyses.
 
-Just the Class is a template that extends the popular [Just the Docs](https://github.com/just-the-docs/just-the-docs) theme, which provides a robust and thoroughly-tested foundation for your website. Just the Docs include features such as:
+# Datathon Tracks
+## 1. Watse Intensity Scoring of Large Residential Dorms
+What is the watse use intensity (WUI) per person in large residential dorms? Watse use intensity is measured according to watse per person and watse diversion. Watse diversion is the proportion of the amount of watse that is recycled, reused, or donated to total watse. 
 
-- automatic [navigation structure](https://just-the-docs.github.io/just-the-docs/docs/navigation-structure/),
-- instant, full-text [search](https://just-the-docs.github.io/just-the-docs/docs/search/) and page indexing,
-- and a set of [UI components](https://just-the-docs.github.io/just-the-docs/docs/ui-components) and authoring [utilities](https://just-the-docs.github.io/just-the-docs/docs/utilities).
+Can you create a framework for scoring large residential dorms according to their WUI?
+    
+## 2. Backtracking Buildings Emissions
+According to Boston's Building Emissions Reduction and Disclosure Ordinance (BERDO), organizations with a certain threshold in square footage are required to report the greenhouse gas emissions, energy usage, and energy costs of their buildings. The purpose of BERDO is to make organizations more aware of these factors with the goal of enabling them to reduce all three. For more information on BERDO please refer to their [website](https://data.boston.gov/dataset/building-energy-reporting-and-disclosure-ordinance).
 
-## Getting Started
+Boston University has decided to report on its entire portfolio of buildings, setting its baseline metrics to 2006. However, since 2006, new buildings have been established on campus, making it impossible to set baseline metrics for them since there is no data dating back to 2006. 
 
-Getting started with Just the Class is simple.
+Can you estimate the greenhouse gas emissions, energy usage, and energy costs of these new buildings if they were to have existed back in 2006 using historical data from research buildings?
 
-1. Create a [new repository based on Just the Class](https://github.com/kevinlin1/just-the-class/generate).
-1. Update `_config.yml` and `README.md` with your course information. [Be sure to update the url and baseurl](https://mademistakes.com/mastering-jekyll/site-url-baseurl/).
-1. Configure a [publishing source for GitHub Pages](https://help.github.com/en/articles/configuring-a-publishing-source-for-github-pages). Your course website is now live!
-1. Edit and create `.md` [Markdown files](https://guides.github.com/features/mastering-markdown/) to add more content pages.
+## 3. Predicting Food Watse from Catered Events
+The state of Massachusetts has a ban on [commercial food waste disposal](https://www.mass.gov/guides/massdep-waste-disposal-bans) (does not include residential) based on a weekly threshold of half a ton. BU Sustainability has been working to determine the impact of catering practices on the buildings and their compliance with this waste ban. They are looking to expand their efforts to other buildings that may be impacted and how many catered events would push them above the threshold. 
 
-Just the Class has been used by instructors at Stanford University ([CS 161](https://stanford-cs161.github.io/winter2021/)), UC Berkeley ([Data 100](https://ds100.org/fa21/)), UC Santa Barbara ([CSW8](https://ucsb-csw8.github.io/s22/)), Northeastern University ([CS4530/5500](https://neu-se.github.io/CS4530-CS5500-Spring-2021/)), and Carnegie Mellon University ([17-450/17-950](https://cmu-crafting-software.github.io/)). Share your course website and find more examples in the [show and tell discussion](https://github.com/kevinlin1/just-the-class/discussions/categories/show-and-tell)!
+Can you determine how many staffed catered events and/or drop & go catered events would push a building over the ½ ton food waste ban threshold?
 
-### Local development environment
+# Getting Started
 
-Just the Class requires no special Jekyll plugins and can run on GitHub Pages' standard Jekyll compiler. To setup a local development environment, clone your template repository and follow the GitHub Docs on [Testing your GitHub Pages site locally with Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/testing-your-github-pages-site-locally-with-jekyll).
+# How to Submit
