@@ -1,7 +1,7 @@
 ---
 name: Evil Kevin
-role: Teaching Assistant
-email: me@example.com
+role: Vice President
+email: kewenliu@bu.edu
 website: https://kevinl.info
 photo: kevin.jpg
 ---
