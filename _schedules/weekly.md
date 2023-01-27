@@ -1,66 +1,53 @@
 ---
-timeline:
-  - '9:00 AM'
-  - '9:30 AM'
-  - '10:00 AM'
-  - '10:30 AM'
-  - '11:00 AM'
-  - '11:30 AM'
-  - '12:00 PM'
-  - '12:30 PM'
-  - '1:00 PM'
-  - '1:30 PM'
-  - '2:00 PM'
-  - '2:30 PM'
-  - '3:00 PM'
-  - '3:30 PM'
-  - '4:00 PM'
-  - '4:30 PM'
-  - '5:00 PM'
-  - '5:30 PM'
 schedule:
-  - name: Monday
+  - name: March 18, 2023
     events:
-      - name: Lecture
-        start: 9:30 AM
-        end: 10:30 AM
-        location: 150 Wheeler
-      - name: Section
-        start: 11:30 AM
-        end: 12:30 PM
-        location: 310 Soda
-      - name: Office Hours
-        start: 12:30 PM
+      - name: Opening Ceremony
+        start: 9:00 AM
+        end: 10:00 AM
+      - name: Team Formation
+        start: 10:00 AM
+        end: 11:00 AM
+      - name: Git Workshop
+        hosts: TBA
+        start: 11:00 AM
+        end: 12:00 PM
+        location: TBA
+      - name: Lunch 
+        start: 12:00 PM
+        end: 1:00 PM
+      - name: How a Small Swedish Town Is Using Data to Create a Sustainable Environment
+        hosts: Yingqing Chen (PhD student, Boston University), Jan Malmgren (inventor/innovator, Smarta Byar), and Christopher Tate (Principal Consultant, Red Hat)
+        start: 1:00 PM
         end: 2:00 PM
-        location: 271 Soda
-  - name: Tuesday
-  - name: Wednesday
-    events:
-      - name: Lecture
-        start: 9:30 AM
-        end: 10:30 AM
-        location: 150 Wheeler
-      - name: Section
-        start: 11:30 AM
-        end: 12:30 PM
-        location: 310 Soda
-      - name: Office Hours
-        start: 12:30 PM
+        location: TBA
+      - name: Careers in Clean Tech
+        hosts: TBA
+        start: 2:00 PM
+        end: 3:00 PM
+        location: TBA
+      - name: Introduction to Neural Nets 
+        hosts: Wei Main (tech team, BUDSA) and Ryan Nie (tech team, BUDSA)
+        start: 4:00 PM
+        end: 5:00 PM
+        location: TBA
+      - name: How to Build a Simple Machine Learning Web App in Python Using Streamlit
+        start: 7:00 PM
+        end: 8:00 PM
+        location: TBA
+      - name: Ice Cream Social
+        start: 9:00 PM
+        end: 10:00 PM
+  - name: March 19, 2023
+      - name: Bruch
+        start: 10:00 AM
+        end: 12:00 PM
+      - name: Submission Deadline
+        start: 11:00 AM
+      - name: Judge Deliberations 
+        start: 11:00 AM
         end: 2:00 PM
-        location: 271 Soda
-  - name: Thursday
-  - name: Friday
-    events:
-      - name: Lecture
-        start: 9:30 AM
-        end: 10:30 AM
-        location: 150 Wheeler
-      - name: Section
-        start: 11:30 AM
-        end: 12:30 PM
-        location: 310 Soda
-      - name: Office Hours
-        start: 12:30 PM
-        end: 2:00 PM
-        location: 271 Soda
+      - name: Closing Ceremony
+        start: 2:00 PM
+        end: 3:00 PM 
 ---

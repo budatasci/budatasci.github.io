@@ -1,11 +1,9 @@
 ---
 layout: page
-title: Schedule
-description: The weekly event schedule.
+title: Event Schedule
+description: List of datathon events. 
 ---
 
-# Weekly Schedule
+# Event Schedule
 
-{% for schedule in site.schedules %}
-{{ schedule }}
-{% endfor %}
+{% for schedule in site.schedules %} {{schedule}} {% endfor %}
