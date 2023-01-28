@@ -69,6 +69,7 @@ schedule:
         start: 9:00 PM
         end: 10:00 PM
   - name: March 19, 2023
+    events:
       - name: Brunch
         start: 10:00 AM
         end: 12:00 PM
