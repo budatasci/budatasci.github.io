@@ -11,7 +11,7 @@ seo:
 # Data 4 Sustainability  Datathon
 ## March 18-19, 2023, Boston University
 
-: [Registration](https://www.eventbrite.com/e/data-4-sustainability-datathon-tickets-522100686207){: .btn .btn-outline }
+[Registration](https://www.eventbrite.com/e/data-4-sustainability-datathon-tickets-522100686207){: .btn .btn-outline }
 ## About 
 The goal of this datathon is to enhance sustainability efforts on Boston University's campus through data analysis. 
 BUDSA has collaborated with BU Sustainability to provide real world data pertaining to on campus emmissions and waste for participants to explore and analyze. 
