@@ -16,8 +16,7 @@
 title: Data 4 Sustainability
 tagline: BU Data Science Association x BU Sustainability
 description: Datathon website for Data 4 Sustainability
-# baseurl: '/just-the-class' # the subpath of your site, e.g. /blog
-url: 'https://budatasci.github.io/' # the base hostname & protocol for your site, e.g. http://example.com
+url: 'https://budatasci.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 
 # Theme settings
