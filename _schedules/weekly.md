@@ -28,7 +28,6 @@ timeline:
   - '9:30 PM'
   - '10:00 PM'
   - '10:30 PM'
-
 schedule:
   - name: March 18, 2023
     events:
@@ -81,5 +80,4 @@ schedule:
       - name: Closing Ceremony
         start: 2:00 PM
         end: 3:00 PM 
-
 ---
