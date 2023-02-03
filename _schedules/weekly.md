@@ -72,7 +72,7 @@ schedule:
       - name: Brunch
         start: 10:00 AM
         end: 11:59 AM
-      - name: Submission Deadline __11:00 AM__    Judge Deliberations 
+      - name: Submission Deadline  __11:00 AM__   Judge Deliberations 
         start: 11:00 AM
         end: 2:00 PM
       - name: Closing Ceremony
