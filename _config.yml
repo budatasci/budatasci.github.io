@@ -49,7 +49,7 @@ defaults:
       width: 300
   - scope:
       path: ''
-      type: modules
+      type: faq
     values:
       layout: module
   - scope:
