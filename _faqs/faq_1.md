@@ -1,1 +1,5 @@
+---
+title: What is a datathon?
+---
 
+A datathon is a competition where participants address challenges through the use of data science tools and techniques. 
