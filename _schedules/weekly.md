@@ -71,7 +71,7 @@ schedule:
     events:
       - name: Brunch
         start: 10:00 AM
-        end: 10:59 AM
+        end: 11:59 AM
       - name: Submission Deadline
         start: 10:59 AM
         end: 11:00 AM
