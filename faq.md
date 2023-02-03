@@ -6,7 +6,7 @@ description: Frequently Asked Questions
 
 ## FAQ
 
-{% assign questions = site.faq %}
+{% assign questions = site._faq %}
 {% for q in questions %}
 {{ q }}
 {% endfor %}
