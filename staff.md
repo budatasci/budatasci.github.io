@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Organizers
+title: Meet the E-Board
 description: A listing of all the BUDSA e-board members.
 ---
 
