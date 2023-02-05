@@ -1,7 +1,7 @@
 ---
 layout: page
-title: BUDSA E-Board Members
-description: A listing of all the BUDSA members.
+title: Meet the E-Board
+description: A listing of all the BUDSA e-board members.
 ---
 
 # E-Board
