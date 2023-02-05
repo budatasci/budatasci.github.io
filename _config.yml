@@ -50,7 +50,7 @@ defaults:
       width: 100
   - scope:
       path: ''
-      type: faq
+      type: faqs
     values:
       layout: faq
   - scope:
