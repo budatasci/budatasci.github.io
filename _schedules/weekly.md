@@ -29,7 +29,7 @@ timeline:
   - '10:00 PM'
   - '10:30 PM'
 schedule:
-  - name: March 18, 2023
+  - name: Saturday
     events:
       - name: Opening Ceremony
         start: 9:00 AM
@@ -67,12 +67,12 @@ schedule:
       - name: Ice Cream Social
         start: 9:00 PM
         end: 10:00 PM
-  - name: March 19, 2023
+  - name: Sunday
     events:
       - name: Brunch
         start: 10:00 AM
-        end: 11:59 AM
-      - name: Submission Deadline 11:00 AM **IMPORTANT** Judge Deliberations 
+        end: 11:00 AM
+      - name: Submission Deadline 
         start: 11:00 AM
         end: 2:00 PM
       - name: Closing Ceremony
