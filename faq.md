@@ -6,6 +6,6 @@ description: Frequently Asked Questions
 
 ## FAQ
 
-{% for q in site.faqs %}
+{% for q in site.faq %}
 {{q}}
 {% endfor %}
