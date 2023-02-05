@@ -52,7 +52,7 @@ defaults:
       path: ''
       type: faq
     values:
-      layout: faq
+      layout: module
   - scope:
       path: ''
       type: schedules
