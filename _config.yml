@@ -37,6 +37,7 @@ collections:
   staffers:
   modules:
   schedules:
+  faq:
 # Default layouts for each collection type
 defaults:
   - scope:
