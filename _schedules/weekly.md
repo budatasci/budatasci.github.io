@@ -28,7 +28,6 @@ timeline:
   - '9:30 PM'
   - '10:00 PM'
   - '10:30 PM'
-
 schedule:
   - name: March 18, 2023
     events:
@@ -69,12 +68,11 @@ schedule:
         start: 9:00 PM
         end: 10:00 PM
   - name: March 19, 2023
-      - name: Bruch
+    events:
+      - name: Brunch
         start: 10:00 AM
-        end: 12:00 PM
-      - name: Submission Deadline
-        start: 11:00 AM
-      - name: Judge Deliberations 
+        end: 11:59 AM
+      - name: Submission Deadline 11:00 AM **IMPORTANT** Judge Deliberations 
         start: 11:00 AM
         end: 2:00 PM
       - name: Closing Ceremony

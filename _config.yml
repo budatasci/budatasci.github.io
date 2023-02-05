@@ -16,7 +16,7 @@
 title: Data 4 Sustainability
 tagline: BU Data Science Association x BU Sustainability
 description: Datathon website for Data 4 Sustainability
-url: 'https://budatasci.github.io' # the base hostname & protocol for your site, e.g. http://example.com
+url: 'https://budatasci.github.io' 
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 
 # Theme settings
@@ -37,6 +37,7 @@ collections:
   staffers:
   modules:
   schedules:
+  faqs:
 # Default layouts for each collection type
 defaults:
   - scope:
@@ -44,12 +45,12 @@ defaults:
       type: staffers
     values:
       layout: staffer
-      height: 300
+      height: 100
       subpath: '/assets/images/'
-      width: 300
+      width: 100
   - scope:
       path: ''
-      type: faq
+      type: faqs
     values:
       layout: module
   - scope:
