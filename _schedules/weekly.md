@@ -74,7 +74,7 @@ schedule:
         end: 11:59 AM
       - name: Submission Deadline 11:00 AM **IMPORTANT** Judge Deliberations 
         start: 11:00 AM
-        end: 2:00 PM
+        end: 11:01 PM
       - name: Closing Ceremony
         start: 2:00 PM
         end: 3:00 PM 
